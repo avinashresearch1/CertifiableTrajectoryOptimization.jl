@@ -1,0 +1,10 @@
+name = "CertifiableTrajectoryOptimization"
+uuid = "54ab3cc9-65dc-42e3-8b6f-61fa74865283"
+version = "0.1.0"
+authors = ["avinashresearch1 <avinash.subramanian.research@gmail.com>"]
+
+[deps]
+Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
+
+[compat]
+Symbolics = "7.42.0"
